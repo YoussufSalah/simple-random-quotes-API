@@ -233,5 +233,125 @@
         "text": "Do one thing every day that scares you.",
         "author": "Eleanor Roosevelt",
         "category": "inspirational"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "motivational"
+    },
+    {
+        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "category": "motivational"
+    },
+    {
+        "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "author": "Ralph Waldo Emerson",
+        "category": "life"
+    },
+    {
+        "text": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "category": "life"
+    },
+    {
+        "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson",
+        "category": "motivational"
+    },
+    {
+        "text": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau",
+        "category": "motivational"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "motivational"
+    },
+    {
+        "text": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West",
+        "category": "life"
+    },
+    {
+        "text": "Love the life you live. Live the life you love.",
+        "author": "Bob Marley",
+        "category": "love"
+    },
+    {
+        "text": "Love is not only something you feel, it is something you do.",
+        "author": "David Wilkerson",
+        "category": "love"
+    },
+    {
+        "text": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "category": "motivational"
+    },
+    {
+        "text": "In three words I can sum up everything I've learned about life: It goes on.",
+        "author": "Robert Frost",
+        "category": "life"
+    },
+    {
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "category": "motivational"
+    },
+    {
+        "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett",
+        "category": "motivational"
+    },
+    {
+        "text": "There are no shortcuts to any place worth going.",
+        "author": "Beverly Sills",
+        "category": "motivational"
+    },
+    {
+        "text": "I am not a product of my circumstances. I am a product of my decisions.",
+        "author": "Stephen R. Covey",
+        "category": "motivational"
+    },
+    {
+        "text": "Don't cry because it's over, smile because it happened.",
+        "author": "Dr. Seuss",
+        "category": "life"
+    },
+    {
+        "text": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "category": "motivational"
+    },
+    {
+        "text": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "category": "motivational"
+    },
+    {
+        "text": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein",
+        "category": "inspirational"
+    },
+    {
+        "text": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas A. Edison",
+        "category": "inspirational"
+    },
+    {
+        "text": "It is never too late to be what you might have been.",
+        "author": "George Eliot",
+        "category": "motivational"
+    },
+    {
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson",
+        "category": "inspirational"
+    },
+    {
+        "text": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "category": "life"
     }
 ]

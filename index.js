@@ -11,9 +11,13 @@ dotenv.config(path.join(__dirname, ".env"));
 app.use(cors({ origin: process.env.USER_SITE, optionsSuccessStatus: 200 }));
 app.use(express.json());
 
-let quotes =
-    JSON.parse(fs.readFileSync(path.join(__dirname, "files", "quotes.json"))) ||
-    [];
+let quotes = [
+    ...new Set(
+        JSON.parse(
+            fs.readFileSync(path.join(__dirname, "files", "quotes.json"))
+        ) || []
+    ),
+];
 let categories = new Set(quotes.map((quote) => quote.category));
 
 app.get("/api/quote", (req, res) => {
