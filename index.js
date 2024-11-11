@@ -37,7 +37,7 @@ app.get("/api/quote", (req, res) => {
     res.status(200).json({
         status: "success",
         data: {
-            randomquote: response[randomIndex],
+            randomQuote: response[randomIndex],
         },
     });
     console.log(
